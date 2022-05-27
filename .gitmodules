@@ -1,0 +1,5 @@
+[submodule "AIDAqc_test_data"]
+	path = AIDAqc_test_data
+	url = git@gin.g-node.org:/msz/AIDAqc_test_data.git
+	datalad-id = ae810773-9b69-4c69-a058-f8a9065897b9
+	datalad-url = git@gin.g-node.org:/msz/AIDAqc_test_data.git
