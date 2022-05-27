@@ -3,3 +3,8 @@
 	url = git@gin.g-node.org:/msz/AIDAqc_test_data.git
 	datalad-id = ae810773-9b69-4c69-a058-f8a9065897b9
 	datalad-url = git@gin.g-node.org:/msz/AIDAqc_test_data.git
+[submodule "AIDAqc-code"]
+	path = AIDAqc-code
+	url = git@github.com:mslw/AIDAqc-code.git
+	datalad-id = d510b820-8d16-448b-8fb6-8bc9a01bb72f
+	datalad-url = git@github.com:mslw/AIDAqc-code.git
